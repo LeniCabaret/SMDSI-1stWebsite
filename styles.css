@@ -3,9 +3,9 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif  ;
 }
-h1{
+.h1-custom{
     color:white;
 }
-p{
-    color:blueviolet
+#p-custom-id{
+    color:blueviolet;
 }
