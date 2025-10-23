@@ -1,0 +1,36 @@
+/* CSS de la page maquette */
+body
+{
+    background: black;
+    padding : 1rem;
+}
+#bodytitre
+{
+    color:white;
+}
+
+header
+{
+    background: cornflowerblue;
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
+img
+{
+    background:pink;
+}
+nav{
+    display: flex;
+    background-color: pink;
+    width: 100%;
+}
+nav > ul
+{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: flex-end
+}
+
+
